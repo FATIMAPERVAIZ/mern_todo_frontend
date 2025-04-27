@@ -1,7 +1,7 @@
-Task Manager App
+**Task Manager App**
 A simple task management application built with MERN stack (MongoDB, Express, React, Node.js).
 
-Features
+**Features**
 Add new tasks
 
 Mark tasks as complete
@@ -14,7 +14,7 @@ Setup Instructions
 Clone the repository:
 
 git clone <url>
-Setup backend:
+**Setup backend:**
 
 cd backend
 npm install
@@ -24,14 +24,14 @@ Setup frontend:
 cd ../frontend
 npm install
 npm start
-Folder Structure
+**Folder Structure**
 backend/ - Contains all server-side code
 
 frontend/ - Contains all client-side code
 
 
 
-How to Use
+**How to Use**
 Open the app in browser
 
 Type your task in the input box
@@ -42,7 +42,7 @@ Click checkbox to mark complete
 
 Click trash icon to delete
 
-Screenshot
+**Screenshot**
 Home page
 ![image](https://github.com/user-attachments/assets/a1c34005-2bc9-4ee3-b7e8-b22b983b26bb)
 Add task
